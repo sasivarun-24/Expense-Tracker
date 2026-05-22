@@ -45,8 +45,8 @@ Make sure you have [Node.js](https://nodejs.org/) installed (version 18+ recomme
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/expense-tracker.git
-   cd expense-tracker
+   git clone https://github.com/sasivarun-24/Expense-Tracker.git
+   cd Expense-Tracker
    ```
 
 2. **Install dependencies:**
